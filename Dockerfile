@@ -13,6 +13,7 @@ RUN apt-get update && \
         valgrind \
         cmake \
         git \
+	ssh \
         vim \
         curl \
 	python3-pip \
